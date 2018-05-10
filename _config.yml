@@ -1,1 +1,5 @@
+deploy:
+  type: git
+  repo: git@github.com:Kenghy/qinfei.github.io.git
+  branch: master
 theme: jekyll-theme-hacker
